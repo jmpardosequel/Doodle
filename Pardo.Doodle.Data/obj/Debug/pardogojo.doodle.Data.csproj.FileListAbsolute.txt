@@ -1,0 +1,5 @@
+E:\Work\pardogojo.doodle\pardogojo.doodle.Data\bin\Debug\pardogojo.doodle.Data.dll
+E:\Work\pardogojo.doodle\pardogojo.doodle.Data\bin\Debug\pardogojo.doodle.Data.pdb
+E:\Work\pardogojo.doodle\pardogojo.doodle.Data\obj\Debug\pardogojo.doodle.Data.csprojResolveAssemblyReference.cache
+E:\Work\pardogojo.doodle\pardogojo.doodle.Data\obj\Debug\pardogojo.doodle.Data.dll
+E:\Work\pardogojo.doodle\pardogojo.doodle.Data\obj\Debug\pardogojo.doodle.Data.pdb
