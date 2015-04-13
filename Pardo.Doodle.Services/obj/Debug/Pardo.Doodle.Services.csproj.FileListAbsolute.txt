@@ -1,5 +1,0 @@
-E:\Work\pardogojo.doodle\Pardo.Doodle.Services\bin\Debug\Pardo.Doodle.Services.dll
-E:\Work\pardogojo.doodle\Pardo.Doodle.Services\bin\Debug\Pardo.Doodle.Services.pdb
-E:\Work\pardogojo.doodle\Pardo.Doodle.Services\obj\Debug\Pardo.Doodle.Services.csprojResolveAssemblyReference.cache
-E:\Work\pardogojo.doodle\Pardo.Doodle.Services\obj\Debug\Pardo.Doodle.Services.dll
-E:\Work\pardogojo.doodle\Pardo.Doodle.Services\obj\Debug\Pardo.Doodle.Services.pdb

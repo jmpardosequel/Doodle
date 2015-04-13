@@ -1,5 +1,0 @@
-E:\Work\pardogojo.doodle\Pardo.Doodle.Data\bin\Debug\Pardo.Doodle.Data.dll
-E:\Work\pardogojo.doodle\Pardo.Doodle.Data\bin\Debug\Pardo.Doodle.Data.pdb
-E:\Work\pardogojo.doodle\Pardo.Doodle.Data\obj\Debug\Pardo.Doodle.Data.csprojResolveAssemblyReference.cache
-E:\Work\pardogojo.doodle\Pardo.Doodle.Data\obj\Debug\Pardo.Doodle.Data.dll
-E:\Work\pardogojo.doodle\Pardo.Doodle.Data\obj\Debug\Pardo.Doodle.Data.pdb
