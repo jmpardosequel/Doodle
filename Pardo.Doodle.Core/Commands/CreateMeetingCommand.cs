@@ -2,9 +2,9 @@
 
 namespace Pardo.Doodle.Core.Commands
 {
-    public class CreateEventCommand : Command
+    public class CreateMeetingCommand : Command
     {
-        public CreateEventCommand(ICommandHandler handler) 
+        public CreateMeetingCommand() 
         {
         }
 

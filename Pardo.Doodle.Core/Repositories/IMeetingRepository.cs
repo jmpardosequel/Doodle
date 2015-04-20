@@ -5,8 +5,10 @@ namespace Pardo.Doodle.Core.Repositories
 {
     public interface IMeetingRepository: IRepository<Meeting,int>
     {
-        Meeting Get(int id);
+    }
 
-        void Add(Meeting meeting);
+    public interface IPersonRepository : IRepository<Person, int>
+    {
+        
     }
 }
