@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40302.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pardo.Doodle.Services", "Pardo.Doodle.Services\Pardo.Doodle.Services.csproj", "{146C2C80-6B3D-4A5E-A2CD-9EB484A5753A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pardo.Doodle.Core", "Pardo.Doodle.Core\Pardo.Doodle.Core.csproj", "{94445A08-82E9-4425-8BA8-CB0A7698E940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pardo.Doodle.Data", "Pardo.Doodle.Data\Pardo.Doodle.Data.csproj", "{053BEB62-17E8-49A2-B625-ED756DD529C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pardo.Doodle.Infrastructure", "Pardo.Doodle.Infrastructure\Pardo.Doodle.Infrastructure.csproj", "{3FFC971E-1EE4-4166-A1B5-A4995DF24C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pardo.Doodle.UnitTests", "Pardo.Doodle.UnitTests\Pardo.Doodle.UnitTests.csproj", "{FCAB0B1E-5AD7-456F-8FF4-2BEE3CAA83ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{146C2C80-6B3D-4A5E-A2CD-9EB484A5753A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{146C2C80-6B3D-4A5E-A2CD-9EB484A5753A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{146C2C80-6B3D-4A5E-A2CD-9EB484A5753A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{146C2C80-6B3D-4A5E-A2CD-9EB484A5753A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{053BEB62-17E8-49A2-B625-ED756DD529C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{053BEB62-17E8-49A2-B625-ED756DD529C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{053BEB62-17E8-49A2-B625-ED756DD529C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{053BEB62-17E8-49A2-B625-ED756DD529C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94445A08-82E9-4425-8BA8-CB0A7698E940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94445A08-82E9-4425-8BA8-CB0A7698E940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94445A08-82E9-4425-8BA8-CB0A7698E940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94445A08-82E9-4425-8BA8-CB0A7698E940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFC971E-1EE4-4166-A1B5-A4995DF24C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFC971E-1EE4-4166-A1B5-A4995DF24C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFC971E-1EE4-4166-A1B5-A4995DF24C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFC971E-1EE4-4166-A1B5-A4995DF24C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAB0B1E-5AD7-456F-8FF4-2BEE3CAA83ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAB0B1E-5AD7-456F-8FF4-2BEE3CAA83ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAB0B1E-5AD7-456F-8FF4-2BEE3CAA83ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAB0B1E-5AD7-456F-8FF4-2BEE3CAA83ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
